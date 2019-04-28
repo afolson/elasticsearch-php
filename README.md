@@ -324,7 +324,7 @@ Array
 )
 ```
 
-Unit Testing using Mock a Elastic Client
+Unit Testing using a Mock Elastic Client
 ========================================
 ```php
 use GuzzleHttp\Ring\Client\MockHandler;
